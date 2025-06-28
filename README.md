@@ -15,3 +15,5 @@ CSS3
 Git & GitHub for version control
 Deployed on: GitHub Pages
 
+How to Run: Download or clone the folder,  Navigate to the folder,  Double-click index.html — it will open directly in your browser.
+
